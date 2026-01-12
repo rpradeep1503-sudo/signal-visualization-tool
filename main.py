@@ -1,3 +1,9 @@
+import tkinter as tk
+from tkinter import ttk
+import numpy as np
+import matplotlib.pyplot as plt
+import os
+
 import numpy as np
 import matplotlib.pyplot as plt
 import tkinter as tk
